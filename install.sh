@@ -4,7 +4,7 @@
 ################################################
 
 {
-    script_source="https://raw.githubusercontent.com/Digambaran/yah-cli-shell-completion/main/yah_completion.bash"
+    script_source="https://raw.githubusercontent.com/Digambaran/yah-cli-shell-completion/main/yah-completion.bash"
     expected_profile="${HOME}/.bashrc"
     
     # Utility to check command existence
